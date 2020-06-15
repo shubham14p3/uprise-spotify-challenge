@@ -1,0 +1,23 @@
+.dropdown-toggle::after { 
+  content: none; 
+} 
+
+.container{
+  margin-top: 2.5rem;
+  border-radius: 15px;
+  background-color: white;
+}
+
+.navbar{
+  border-radius: 15px;
+}
+
+.nav-link{
+  color: white;
+  text-align: center;
+  font-weight: bolder;
+  }
+
+  .nav-link:hover{
+     color: #7d60ff !important;
+  }  

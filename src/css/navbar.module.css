@@ -1,0 +1,17 @@
+.nav {
+  display: flex;
+  text-decoration: none;
+  justify-content: flex-start;
+  list-style: none;
+  padding: 0.5em;
+}
+
+.navOuter {
+  margin-top: 8%;
+  background-color: #ffffff;
+  border-radius: 10px;
+}
+
+ul > li {
+  padding: 1em 1.5em;
+}

@@ -1,0 +1,24 @@
+.dropdown {
+  position: absolute;
+  top: 125%;
+  left: 20%;
+  padding: 0;
+  background-color: white;
+  border-radius: 2px;
+  width: 150%;
+}
+
+.dropdown ul li {
+  list-style: none;
+  text-decoration: none;
+  padding: 7%;
+}
+
+.dropdown ul {
+  padding: 0;
+}
+
+.artist:hover {
+  color: white;
+  background-color: rgb(125, 96, 255);
+}
