@@ -5,7 +5,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-Developing the app our CTO Mark, suggests listening to the "Chilled cow" playlist on Spotify (listening optional).
+Developing the app our CTO Mark,suggests listening to the "Chilled cow" playlist on Spotify (listening optional).
 
 In this app we are displaying the details of "Chilled cow" user and playlists on the frontend.
 
