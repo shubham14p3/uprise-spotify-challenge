@@ -15,9 +15,9 @@
     "react-dom": "^16.13.1",
     "react-loader-spinner": "^3.1.14",   
     "react-router-dom": "^5.2.0",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "react-slick": "^0.26.1",
-    "spotify-graphql": "^1.4.0",
+    "spotify-graphql": "^2.0.0",
     "styled-components": "^5.1.1"
   },
   "scripts": {
